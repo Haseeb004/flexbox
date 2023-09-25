@@ -1,0 +1,13 @@
+.logo{
+    width: 80px;
+}
+.header{
+    border: 2px solid gray;
+}
+.headerleft{
+    border: 2px solid yellow;
+}
+.headerright{
+    border: 2px solid yellow;
+}
+
